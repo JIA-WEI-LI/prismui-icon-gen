@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "prismui-icon-gen"
-version = "0.1.2"
+version = "0.1.3"
 description = "A PrismUI tool to generate Python QIcon modules from SVG themes"
 authors = [
     { name="Magicsoldier19", email="magicsoldier19@gmail.com" }
@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/magicsoldier19/prismui-icon-gen"
+Homepage = "https://github.com/JIA-WEI-LI/prismui-icon-gen"
 
 [tool.setuptools]
 packages = ["prismui_icon_gen"]
